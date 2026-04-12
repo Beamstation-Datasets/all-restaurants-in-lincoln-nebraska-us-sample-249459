@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Lincoln, Nebraska with a population of over 291k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Lincoln, Nebraska, US",
+  "export_job_id": "7352dcf9-22bf-4024-b0e6-3c40e47e4aaf",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 249459,
+  "location_name": "Lincoln",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lincoln-nebraska-us-sample-249459",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/249459/beamstation_249459_restaurants-us-ne_SAMPLE_DIST.csv",
+  "sample_pct": 3.59,
+  "sample_records": 25,
+  "sample_sha256": "368ad89906ab2f51bd298911bb9eef572020d8fa715281e2d64fe0fb89e90f42",
+  "sample_size_bytes": 116713,
+  "total_records": 697,
+  "updated_at": "2026-03-31T15:50:26.364846+00:00"
+}
