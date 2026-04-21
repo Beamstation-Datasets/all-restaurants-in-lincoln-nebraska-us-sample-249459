@@ -1,6 +1,6 @@
 # All Restaurants in Lincoln, Nebraska, US
 
-> Free BeamStation sample export with 76 rows and masked direct-contact fields.
+> Free BeamStation sample export with 23 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `249459` |
 | Location | Lincoln |
 | Category | Restaurants |
-| Full dataset size | 760 records |
-| Free sample size | 76 records (10.0%) |
-| Last export | 2026-04-14T16:32:30.373696+00:00 |
+| Full dataset size | 230 records |
+| Free sample size | 23 records (10.0%) |
+| Last export | 2026-04-21T18:01:17.890978+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lincoln-nebraska-us-sample-249459/releases/download/sample-latest/beamstation_249459_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
