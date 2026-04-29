@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a57ba2bf-ea9a-433f-98e0-3289cd4a8aa7",
+  "export_job_id": "884deb76-0fe4-4980-953f-db0a26545f3c",
   "id_short": 249459,
-  "published_at": "2026-04-21T19:13:34Z",
+  "published_at": "2026-04-29T07:04:48Z",
   "repo_name": "all-restaurants-in-lincoln-nebraska-us-sample-249459",
   "sample_asset_name": "beamstation_249459_restaurants-us-ne_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/249459/beamstation_249459_restaurants-us-ne_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "a04648c50bca33540d95c2dbc6e46967458a484619c60bdbe1caa31aa6a247a0",
-  "sample_size_bytes": 89121,
-  "total_records": 230
+  "sample_records": 74,
+  "sample_sha256": "239d41982278eb2e895b6407e56f05cbac578e7ee7bc6611cba7e3dd20415c26",
+  "sample_size_bytes": 248960,
+  "total_records": 747
 }
